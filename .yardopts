@@ -1,0 +1,8 @@
+--no-private
+--title "Conformista"
+--readme README.md
+--markup markdown
+--markup-provider kramdown
+-
+HISTORY.md
+LICENSE
