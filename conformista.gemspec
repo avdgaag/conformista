@@ -8,10 +8,14 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Arjan van der Gaag']
   s.email       = %q{arjan@arjanvandergaag.nl}
-  s.description = %q{TODO description}
+  s.description = %q{A library for creating form objects for Rails applications.}
   s.homepage    = %q{http://avdgaag.github.com/conformista}
   s.summary     = <<-EOS
-TODO summary
+Conformista is a library to make building presenters -- and form objects in
+particular -- easier. It provides an ActiveModel-compliant base class that your
+own form objects can inherit from, along with standard behaviour for creating,
+loading, validating and persisting business objects (usually ActiveRecord
+models).
 EOS
 
   # Files
