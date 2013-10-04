@@ -1,4 +1,4 @@
-# Conformista [![Build Status](https://secure.travis-ci.org/avdgaag/conformista.png?branch=master)](http://travis-ci.org/avdgaag/conformista)
+# Conformista [![Build Status](https://secure.travis-ci.org/avdgaag/conformista.png?branch=master)](http://travis-ci.org/avdgaag/conformista) [![Code Climate](https://d3s6mut3hikguw.cloudfront.net/github/avdgaag/conformista.png)](https://codeclimate.com/github/avdgaag/conformista)
 
 ## Introduction
 
